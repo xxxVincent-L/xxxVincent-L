@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I' m **Vincent** **Bao**, a NGNE program student in School of Computing, NUS, Singapore. Meanwhile, a student in Sichuan University, China.
+I' m **Vincent** **Bao**, a NGNE program student in **School of Computing, NUS, Singapore**. Meanwhile, a student in **Colleage of Computer Science, Sichuan University, China**.
 
 - 🤔 I use daily: ![xxx](https://img.shields.io/badge/Language-Python-green) ![xxx](https://img.shields.io/badge/Language-C%2B%2B-brightgreen) ![xxx](https://img.shields.io/badge/IDE-Vscode-orange)
 
